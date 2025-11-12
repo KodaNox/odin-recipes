@@ -1,11 +1,11 @@
 # odin-recipes
 TOP Project
 
+Beef Stroganoff Image - NOTANOTHERCOOKINGSHOW
+
 Lohikeitto Image - https://jernejkitchen.com
 
 Shakshuka Image - Wikipedia
-
-Beef Stroganoff Image - NOTANOTHERCOOKINGSHOW
 
 This is so barebones looking that I can't wait to get into CSS to style 
 it and make it look better. A few things I learned during 
